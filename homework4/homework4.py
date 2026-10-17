@@ -130,5 +130,8 @@ del ages["Mariam"]
 print(ages)
 
 for name, age in ages.items():
-    print(f"{name} is {age} years old")
+    print(f"{name} is {age} years old") #f takes the names and ages from the dict
 
+
+
+# My favorite was the favorite foods one, which is at the top of this file
